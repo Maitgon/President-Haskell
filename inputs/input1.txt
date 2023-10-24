@@ -1,0 +1,62 @@
+Input 1.
+
+Candidates:
+A,B,C,D
+A
+B,C
+
+State1 : 60 seats
+A : 40
+B : 30
+C : 20
+D : 10
+Z : 0
+
+State2 : 25 seats
+A : 0
+B : 30
+C : 20
+D : 40
+Z : 30
+
+State3 : 15 seats
+A : 0
+B : 30
+C : 20
+D : 0
+Z : 20
+
+State4 : 20 seats
+A : 0
+B : 30
+C : 20
+D : 0
+Z : 20
+
+State5 : 10 seats
+A : 0
+B : 30
+C : 20
+D : 0
+Z : 20
+
+State6 : 20 seats
+A : 0
+B : 30
+C : 20
+D : 40
+Z : 20
+
+State7 : 5 seats
+A : 20
+B : 30
+C : 20
+D : 40
+Z : 30
+
+State8 : 25 seats
+A : 0
+B : 30
+C : 80
+D : 40
+Z : 30

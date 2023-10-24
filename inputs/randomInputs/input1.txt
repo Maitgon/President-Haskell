@@ -1,0 +1,266 @@
+Input 1.
+
+Candidates:
+A,B,C,D,E,F,G,H,I,J
+A
+B,C,D,E,F
+
+State1 : 20 seats
+A : 14
+B : 30
+C : 16
+D : 25
+E : 30
+F : 10
+G : 15
+H : 10
+I : 26
+J : 13
+Z : 9
+
+State2 : 19 seats
+A : 16
+B : 22
+C : 19
+D : 19
+E : 19
+F : 30
+G : 24
+H : 12
+I : 20
+J : 13
+Z : 5
+
+State3 : 16 seats
+A : 13
+B : 23
+C : 27
+D : 28
+E : 11
+F : 20
+G : 24
+H : 20
+I : 22
+J : 30
+Z : 4
+
+State4 : 20 seats
+A : 12
+B : 18
+C : 15
+D : 19
+E : 28
+F : 29
+G : 23
+H : 26
+I : 11
+J : 13
+Z : 7
+
+State5 : 12 seats
+A : 16
+B : 28
+C : 14
+D : 26
+E : 12
+F : 15
+G : 22
+H : 30
+I : 19
+J : 30
+Z : 4
+
+State6 : 11 seats
+A : 15
+B : 12
+C : 15
+D : 28
+E : 23
+F : 21
+G : 23
+H : 27
+I : 25
+J : 23
+Z : 8
+
+State7 : 15 seats
+A : 12
+B : 21
+C : 18
+D : 16
+E : 30
+F : 29
+G : 25
+H : 18
+I : 14
+J : 10
+Z : 9
+
+State8 : 16 seats
+A : 14
+B : 29
+C : 19
+D : 12
+E : 15
+F : 16
+G : 15
+H : 21
+I : 19
+J : 26
+Z : 10
+
+State9 : 10 seats
+A : 22
+B : 17
+C : 28
+D : 28
+E : 28
+F : 15
+G : 23
+H : 13
+I : 29
+J : 12
+Z : 1
+
+State10 : 17 seats
+A : 25
+B : 10
+C : 23
+D : 13
+E : 10
+F : 21
+G : 29
+H : 13
+I : 24
+J : 30
+Z : 4
+
+State11 : 18 seats
+A : 21
+B : 18
+C : 18
+D : 19
+E : 25
+F : 26
+G : 24
+H : 26
+I : 22
+J : 11
+Z : 8
+
+State12 : 10 seats
+A : 16
+B : 11
+C : 13
+D : 29
+E : 18
+F : 21
+G : 26
+H : 25
+I : 27
+J : 15
+Z : 1
+
+State13 : 19 seats
+A : 11
+B : 28
+C : 22
+D : 17
+E : 19
+F : 23
+G : 18
+H : 23
+I : 19
+J : 18
+Z : 3
+
+State14 : 16 seats
+A : 19
+B : 20
+C : 22
+D : 25
+E : 28
+F : 20
+G : 30
+H : 21
+I : 28
+J : 26
+Z : 5
+
+State15 : 18 seats
+A : 22
+B : 28
+C : 26
+D : 11
+E : 15
+F : 21
+G : 16
+H : 12
+I : 26
+J : 20
+Z : 5
+
+State16 : 11 seats
+A : 19
+B : 12
+C : 14
+D : 15
+E : 19
+F : 26
+G : 15
+H : 10
+I : 29
+J : 24
+Z : 0
+
+State17 : 12 seats
+A : 19
+B : 16
+C : 10
+D : 29
+E : 21
+F : 29
+G : 21
+H : 15
+I : 20
+J : 19
+Z : 6
+
+State18 : 13 seats
+A : 13
+B : 11
+C : 26
+D : 22
+E : 12
+F : 10
+G : 24
+H : 26
+I : 10
+J : 16
+Z : 0
+
+State19 : 15 seats
+A : 22
+B : 18
+C : 25
+D : 15
+E : 18
+F : 30
+G : 25
+H : 29
+I : 19
+J : 27
+Z : 2
+
+State20 : 18 seats
+A : 18
+B : 14
+C : 17
+D : 25
+E : 18
+F : 25
+G : 23
+H : 28
+I : 19
+J : 28
+Z : 10
